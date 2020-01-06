@@ -102,7 +102,7 @@ P(Identical|Twin) = ((1) * (1/300))/(17/1500) = 15/51 or 0.29411764705882354
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Frequentist statistics ignores prior probabilities while bayesian statistics updates prior probabilities using new data, narrowing the uncertainty around the value in question.
 
 ---
 
